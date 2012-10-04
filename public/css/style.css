@@ -1,0 +1,178 @@
+body{
+	margin-top:50px;
+	margin-right:50px;
+	margin-bottom:50px;
+	margin-left:50px;
+	padding-top:50px; 
+	padding-right:50px; 
+	padding-bottom:50px;  
+	padding-left:50px;  
+}
+
+p{
+}
+
+a{
+	font-size:10px; 
+}
+
+img 
+{
+	float:left;
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+}
+
+#image{
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+}
+
+#header{
+	float:left;
+	margin-top:50px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-left:150px;
+}
+
+#contact_address{
+	float:left;
+	position:absolute;
+	margin-top:180px;
+	margin-bottom:50px;
+	margin-left:0px;
+	margin-right:0px;
+	max-width:140px;
+	font-family:"Courier New", Courier, monospace;
+	font-size:13px;
+	font-weight:bold;
+	text-align:center; 
+}
+
+#interests{
+	float:left;
+	position:absolute;
+	margin-top:300px;
+	margin-bottom:100px;
+	margin-left:5px;
+	margin-right:5px;
+	max-width:140px;
+	font-family:"Lucida Handwriting";	
+	color:#0C2C52; 
+	font-size:12px; 
+	background-color:#DCF0F7;
+	text-align:center; 
+}
+
+#cv{
+	margin-top:70px;
+	margin-right:0px; 
+	margin-left:150px;
+	margin-bottom:200px; 
+	padding-left:0px; 
+	float:left;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;	
+	font-size:14px; 
+}
+
+#school_background{
+}
+
+#work_experiences{
+}
+
+
+h1{
+	font-family:"Trebuchet MS", Helvetica, sans-serif;	
+	font-size:20px;
+	font-weight:bold;
+	text-align:left;
+	color:#5E9DC8;
+	background-color:white;
+}
+
+h2{
+	font-family:"Trebuchet MS", Helvetica, sans-serif;	
+	font-size:30px;
+	font-weight:bold;
+	text-align:left;
+	color:#5E9DC8;
+	background-color:white;
+}
+
+h3{
+	font-family:"Lucida Handwriting";
+	font-size:18px;
+	font-weight:bold;
+	text-align:left;
+	color:#0C2C52;
+	background-color:#DCF0F7;
+	text-align:center; 
+}
+
+h4{
+	font-family:"Lucida Handwriting";
+	font-size:20px;
+	font-weight:bold;
+	text-align:left;
+	color:#0C2C52;
+	background-color:white;
+}
+
+.year_experience{
+	font-style:italic;
+	color:#5F6B61;
+	margin-top:20px; 
+}
+
+.name_company{
+	font-weight:bold;
+	font-size:16px; 
+	margin-top:10px; 
+	color:#5E9DC8;
+}
+
+.position{
+	font-style:normal;
+}
+
+.responsabilities{
+	font-style:normal;
+}
+
+.school_background{
+	float:right;
+}
+
+.year_studies{
+	font-style:italic;
+	color:#5F6B61;
+	margin-top:20px; 
+
+}
+
+.diploma{
+	font-weight:bold;
+	font-size:16px; 
+	color:#5E9DC8;
+	margin-top:5px; 
+
+}
+
+.university{
+	font-style:normal;
+}
+
+.detail{
+	font-style:normal;
+}
+
+.research{
+	font-style:normal;
+}
+
