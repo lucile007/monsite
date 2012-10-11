@@ -29,79 +29,38 @@ a:visited{
 	
 
 #image{
-	float:left;
-	margin-top:0px;
-	margin-right:0px;
-	margin-bottom:0px;
-	margin-left:0px;
+	
 }
 
 #networks{
-	float:left;
-	position:absolute;
-	text-align:center; 
-	margin-top:300px; 
-	margin-right:10px;
-	margin-bottom:0px; 
-	margin-left:50px;  
+	
 }
 
 #menu{
-	margin-left:150px;
-	position:fixed;
-	float:center;
-	color:black;
-	font-family:"Trebuchet MS", Helvetica, sans-serif;	
-	font-size:10px;
-	background-color:#5E9DC8;
+	
 }
 
 #header{
-	float:left;
-	margin-top:50px;
-	margin-right:0px;
-	margin-bottom:0px;
-	margin-left:150px;
+	
 }
 
 #contact_address{
-	float:left;
-	position:absolute;
-	margin-top:180px;
-	margin-bottom:50px;
-	margin-left:0px;
-	margin-right:0px;
-	max-width:140px;
+
 	font-family:"Courier New", Courier, monospace;
 	font-size:13px;
-	font-weight:bold;
-	text-align:center; 
+
 }
 
 #interests{
-	float:left;
-	position:absolute;
-	margin-top:470px;
-	margin-bottom:100px;
-	margin-left:5px;
-	margin-right:5px;
-	max-width:140px;
+
 	font-family:"Lucida Handwriting";	
-	color:#0C2C52; 
-	font-size:12px; 
-	background-color:#DCF0F7;
-	text-align:center; 
+	
 }
 
 #cv{
-	margin-top:0px;
-	margin-right:0px; 
-	margin-left:150px;
-	margin-bottom:200px; 
-	padding-left:0px; 
-	float:left;
+
 	font-family:"Trebuchet MS", Helvetica, sans-serif;	
-	font-size:14px; 
+	
 }
 
 #school_background{
@@ -114,64 +73,48 @@ a:visited{
 h1{
 	font-family:"Trebuchet MS", Helvetica, sans-serif;	
 	font-size:20px;
-	font-weight:bold;
-	text-align:left;
-	color:#5E9DC8;
-	background-color:white;
-	text-shadow: 5px 5px 5px #DCF0F7; 
 }
 
 h2{
-	font-family:"Trebuchet MS", Helvetica, sans-serif;	
-	font-size:30px;
-	font-weight:bold;
-	text-align:left;
-	color:#5E9DC8;
-	background-color:white;
-	text-shadow: 5px 5px 5px #DCF0F7; 
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
 
 }
 
 h3{
 	font-family:"Lucida Handwriting";
 	font-size:18px;
-	font-weight:bold;
-	text-align:left;
-	color:#0C2C52;
-	background-color:#DCF0F7;
-	text-align:center; 
 }
 
 h4{
 	font-family:"Lucida Handwriting";
 	font-size:20px;
-	font-weight:bold;
-	text-align:left;
-	color:#0C2C52;
-	background-color:white;
+}
+
+#networks img {
+	padding-top: 13px;
 }
 
 .worpress{
-	margin-top: 300px; margin-left: 50px; margin-right: 50px;
+
 }
 
 .linkedin{
 }
 
 .twitter{
-	margin-top:400px; margin-left: 50px; margin-right: 50px;
+	
 }
 
 .year_experience{
 	font-style:italic;
 	color:#5F6B61;
-	margin-top:20px; 
+	
 }
 
 .name_company{
 	font-weight:bold;
 	font-size:16px; 
-	margin-top:10px; 
+	 
 	color:#5E9DC8;
 }
 
@@ -189,8 +132,7 @@ h4{
 
 .year_studies{
 	font-style:italic;
-	color:#5F6B61;
-	margin-top:20px; 
+	color:#5F6B61; 
 
 }
 
@@ -198,8 +140,16 @@ h4{
 	font-weight:bold;
 	font-size:16px; 
 	color:#5E9DC8;
-	margin-top:5px; 
+}
 
+.column-left{
+	float:left;
+	text-align: center;
+}
+
+.main-content{
+	margin: 0px 0px 0px 131px;
+	float: left;
 }
 
 .university{
