@@ -12,12 +12,23 @@ body{
 p{
 }
 
-a{
-	font-size:10px; 
+a:active{
+	text-decoration:underline;
 }
 
-img 
-{
+a:hover{
+	text-decoration:underline;
+	color:#5F6B61;
+}
+
+a:visited{
+	text-decoration:underline;
+	color:#5F6B61;
+}
+
+	
+
+#image{
 	float:left;
 	margin-top:0px;
 	margin-right:0px;
@@ -25,11 +36,24 @@ img
 	margin-left:0px;
 }
 
-#image{
-	margin-top:0px;
-	margin-right:0px;
-	margin-bottom:0px;
-	margin-left:0px;
+#networks{
+	float:left;
+	position:absolute;
+	text-align:center; 
+	margin-top:300px; 
+	margin-right:10px;
+	margin-bottom:0px; 
+	margin-left:50px;  
+}
+
+#menu{
+	margin-left:150px;
+	position:fixed;
+	float:center;
+	color:black;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;	
+	font-size:10px;
+	background-color:#5E9DC8;
 }
 
 #header{
@@ -57,7 +81,7 @@ img
 #interests{
 	float:left;
 	position:absolute;
-	margin-top:300px;
+	margin-top:470px;
 	margin-bottom:100px;
 	margin-left:5px;
 	margin-right:5px;
@@ -70,7 +94,7 @@ img
 }
 
 #cv{
-	margin-top:70px;
+	margin-top:0px;
 	margin-right:0px; 
 	margin-left:150px;
 	margin-bottom:200px; 
@@ -94,6 +118,7 @@ h1{
 	text-align:left;
 	color:#5E9DC8;
 	background-color:white;
+	text-shadow: 5px 5px 5px #DCF0F7; 
 }
 
 h2{
@@ -103,6 +128,8 @@ h2{
 	text-align:left;
 	color:#5E9DC8;
 	background-color:white;
+	text-shadow: 5px 5px 5px #DCF0F7; 
+
 }
 
 h3{
@@ -122,6 +149,17 @@ h4{
 	text-align:left;
 	color:#0C2C52;
 	background-color:white;
+}
+
+.worpress{
+	margin-top: 300px; margin-left: 50px; margin-right: 50px;
+}
+
+.linkedin{
+}
+
+.twitter{
+	margin-top:400px; margin-left: 50px; margin-right: 50px;
 }
 
 .year_experience{
